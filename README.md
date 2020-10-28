@@ -1,10 +1,11 @@
 # Crate locale-strict
 
-[![travis.ci](https://travis-ci.org/johnstonskj/locale-strict.svg?branch=master)](https://travis-ci.org/johnstonskj/locale-strict)
+![mit License](https://img.shields.io/badge/license-mit-118811.svg)
+![Minimum Rust Version](https://img.shields.io/badge/Min%20Rust-1.34-green.svg)
 [![crates.io](https://img.shields.io/crates/v/locale-strict.svg)](https://crates.io/crates/locale-strict)
 [![docs.rs](https://docs.rs/locale-strict/badge.svg)](https://docs.rs/locale-strict)
-![Minimum Rust Version](https://img.shields.io/badge/Min%20Rust-1.34-green.svg)
-![mit License](https://img.shields.io/badge/license-mit-118811.svg)
+![Build](https://github.com/johnstonskj/locale-strict/workflows/Rust/badge.svg)
+![Audit](https://github.com/johnstonskj/locale-strict/workflows/Security%20audit/badge.svg)
 [![GitHub stars](https://img.shields.io/github/stars/johnstonskj/locale-strict.svg)](https://github.com/johnstonskj/locale-strict/stargazers)
 
 This crate provides a _strict_ version of the `LocaleString` structure provided
